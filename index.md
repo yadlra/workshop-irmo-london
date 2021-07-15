@@ -21,9 +21,17 @@ https://p5js.org/
 
 ###  URL: https://editor.p5js.org/yadlra/sketches/etPTDNDww
 
-## Basics of a program
+## Variables
 
-### Objective: Discover the structure of a p5js code, the general syntax of the language, the comments
+### Objective:(EN) We often need to store information, and sometimes modify it. Let's find out about the variables! (ESP) A menudo necesitamos almacenar información y, a veces, modificarla. ¡Descubramos las variables!
 
-###  URL: https://editor.p5js.org/yadlra/sketches/JA5Eycait
+###  URL: https://editor.p5js.org/yadlra/sketches/jAXljfqRW
+
+## Logic
+
+### Objective:(EN) We enrich the arithmetic calculation seen previously with a calculation of logical expressions (ESP) Enriquecemos el cálculo aritmético visto anteriormente con un cálculo de expresiones lógicas
+
+###  URL: https://editor.p5js.org/yadlra/sketches/jwXGP2uVi
+
+
 
