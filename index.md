@@ -12,20 +12,20 @@ https://p5js.org/
 
 ### Objective: Discover the structure of a p5js code, the general syntax of the language, the comments
 
-###  URL: https://editor.p5js.org/yadlra/sketches/JA5Eycait
+###  URL: (https://editor.p5js.org/yadlra/sketches/JA5Eycait)
 
 
 2️⃣ ## (EN) Arithmetic calculations - (ESP) Cálculos aritméticos
 
 ### Objective: (EN) A computer is never just a very big calculator! Learn about calculations, the basis of any program. (ESP) ¡Una computadora nunca es solo una calculadora grande! Pero hay que conocer un poquito algunos cálculos básicos, la base de cualquier programa.
 
-###  URL: https://editor.p5js.org/yadlra/sketches/etPTDNDww
+###  URL: (https://editor.p5js.org/yadlra/sketches/etPTDNDww)
 
 3️⃣ 4️## Variables
 
 ### Objective:(EN) We often need to store information, and sometimes modify it. Let's find out about the variables! (ESP) A menudo necesitamos almacenar información y, a veces, modificarla. ¡Descubramos las variables!
 
-###  URL: https://editor.p5js.org/yadlra/sketches/jAXljfqRW
+###  URL: (https://editor.p5js.org/yadlra/sketches/jAXljfqRW)
 
 4️⃣ ## Logic
 
@@ -37,20 +37,20 @@ https://p5js.org/
 
 ## (EN) Simple Shapes - (ESP) Formas / Figuras sencillas 🔵 🔶 🔺 🔳
 
-###  URL: https://editor.p5js.org/yadlra/sketches/TxZE9D6Kx
+###  URL: (https://editor.p5js.org/yadlra/sketches/TxZE9D6Kx)
 
 
 ## (EN) Colors and shapes - (ESP) Colores y formas 🌈 ✴️
 
-###  URL: https://editor.p5js.org/yadlra/sketches/bTgVBgh4O
+###  URL: (https://editor.p5js.org/yadlra/sketches/bTgVBgh4O)
 
 ## (EN) Animation - (ESP) Animación 🎮 🎴 🎲 🎯
 
-###  URL: https://editor.p5js.org/yadlra/sketches/eivRCOIIF
+###  URL: (https://editor.p5js.org/yadlra/sketches/eivRCOIIF)
 
 ## (EN) Moving with mouse - (ESP) Moviendose con el raton ◀️ ⬇️ ▶️ ⬅️ 
 
-###  URL: https://editor.p5js.org/yadlra/sketches/cGaenLC8C
+###  URL: (https://editor.p5js.org/yadlra/sketches/cGaenLC8C)
 
 
 
