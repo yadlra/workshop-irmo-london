@@ -33,5 +33,25 @@ https://p5js.org/
 
 ###  URL: https://editor.p5js.org/yadlra/sketches/jwXGP2uVi
 
+# Playing around
+
+## (EN) Simple Shapes - (ESP) Formas / Figuras sencillas
+
+###  URL: https://editor.p5js.org/yadlra/sketches/TxZE9D6Kx
+
+
+## (EN) Colors and shapes - (ESP) Colores y formas
+
+###  URL: https://editor.p5js.org/yadlra/sketches/bTgVBgh4O
+
+## (EN) Animation - (ESP) Animación
+
+###  URL: https://editor.p5js.org/yadlra/sketches/eivRCOIIF
+
+## (EN) Moving with mouse - (ESP) Moviendose con el raton
+
+###  URL: https://editor.p5js.org/yadlra/sketches/cGaenLC8C
+
+
 
 
