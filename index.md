@@ -8,27 +8,22 @@ Some very important links to carry on having fun at home:
 
 https://p5js.org/
 
+## (EN) Basics of a program - (ESP) Basicos de un programa
+
+### Objective: Discover the structure of a p5js code, the general syntax of the language, the comments
+
+###  URL: https://editor.p5js.org/yadlra/sketches/JA5Eycait
+
+
+## (EN) Arithmetic calculations - (ESP) Cálculos aritméticos
+
+### Objective: (EN) A computer is never just a very big calculator! Learn about calculations, the basis of any program. (ESP) ¡Una computadora nunca es solo una calculadora grande! Pero hay que conocer un poquito algunos cálculos básicos, la base de cualquier programa.
+
+###  URL: https://editor.p5js.org/yadlra/sketches/etPTDNDww
+
 ## Basics of a program
 
 ### Objective: Discover the structure of a p5js code, the general syntax of the language, the comments
 
-###  URL: 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+###  URL: https://editor.p5js.org/yadlra/sketches/JA5Eycait
 
