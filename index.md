@@ -8,7 +8,7 @@ Some very important links to explore more:
 
 [p5.js!](https://p5js.org/)
 
-## (EN) Basics of a program - (ESP) Basicos de un programa 
+## (English) Basics of a program - (Español) Basicos de un programa 
 
 ### Objective: Discover the structure of a p5js code, the general syntax of the language, the comments
 
@@ -16,42 +16,48 @@ Some very important links to explore more:
 
 
 
-## (EN) Arithmetic calculations - (ESP) Cálculos aritméticos
+## (English) Arithmetic calculations - (Español) Cálculos aritméticos
 
-### Objective: (EN) A computer is never just a very big calculator! Learn about calculations, the basis of any program. (ESP) ¡Una computadora nunca es solo una calculadora grande! Pero hay que conocer un poquito algunos cálculos básicos, la base de cualquier programa.
+### Objective: 
+(EN) A computer is never just a very big calculator! Learn about calculations, the basis of any program. 
+ESP) ¡Una computadora nunca es solo una calculadora grande! Pero hay que conocer un poquito algunos cálculos básicos, la base de cualquier programa.
 
 ### [Arithmetic calculations](https://editor.p5js.org/yadlra/sketches/etPTDNDww)
 
 ## Variables
 
-### Objective:(EN) We often need to store information, and sometimes modify it. Let's find out about the variables! (ESP) A menudo necesitamos almacenar información y, a veces, modificarla. ¡Descubramos las variables!
+### Objective: 
+(EN) We often need to store information, and sometimes modify it. Let's find out about the variables! 
+(ESP) A menudo necesitamos almacenar información y, a veces, modificarla. ¡Descubramos las variables!
 
 ### [Storing information](https://editor.p5js.org/yadlra/sketches/jAXljfqRW)
 
 ## Logic
 
-### Objective:(EN) We enrich the arithmetic calculation seen previously with a calculation of logical expressions (ESP) Enriquecemos el cálculo aritmético visto anteriormente con un cálculo de expresiones lógicas
+### Objective:
+(EN) We enrich the arithmetic calculation seen previously with a calculation of logical expressions 
+(ESP) Enriquecemos el cálculo aritmético visto anteriormente con un cálculo de expresiones lógicas
 
 ### [Logical expressions](https://editor.p5js.org/yadlra/sketches/jwXGP2uVi)
 
 # Playing around 👾👾👾
 
-## (EN) Simple Shapes - (ESP) Formas / Figuras sencillas 🔵 🔶 🔺 🔳
+## (English) Simple Shapes - (Español) Formas / Figuras sencillas 🔵 🔶 🔺 🔳
 
 ### [Shapes](https://editor.p5js.org/yadlra/sketches/TxZE9D6Kx)
  
 
-## (EN) Colors and shapes - (ESP) Colores y formas 🌈 ✴️
+## (English) Colors and shapes - (Español) Colores y formas 🌈 ✴️
 
 ### [Colors](https://editor.p5js.org/yadlra/sketches/bTgVBgh4O)  
 
 
-## (EN) Animation - (ESP) Animación 🎮 🎴 🎲 🎯
+## (English) Animation - (Español) Animación 🎮 🎴 🎲 🎯
 
 ### [Animations](https://editor.p5js.org/yadlra/sketches/eivRCOIIF)   
 
 
-## (EN) Moving with mouse - (ESP) Moviendose con el raton ◀️ ⬇️ ▶️ ⬅️ 
+## (English) Moving with mouse - (Español) Moviendose con el raton ◀️ ⬇️ ▶️ ⬅️ 
 
 ### [Moves](https://editor.p5js.org/yadlra/sketches/cGaenLC8)     
 
