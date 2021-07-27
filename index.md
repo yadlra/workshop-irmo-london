@@ -10,7 +10,8 @@ Some very important links to explore more:
 
 ## (English) Basics of a program - (Español) Basicos de un programa 
 
-### Objective: Discover the structure of a p5js code, the general syntax of the language, the comments
+### Objective: 
+Discover the structure of a p5js code, the general syntax of the language, the comments
 
 ### [Discover the structure of a p5js code](https://editor.p5js.org/yadlra/sketches/JA5Eycait)
 
