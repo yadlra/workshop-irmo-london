@@ -26,32 +26,35 @@ Some very important links to explore more:
 
 ### Objective:(EN) We often need to store information, and sometimes modify it. Let's find out about the variables! (ESP) A menudo necesitamos almacenar información y, a veces, modificarla. ¡Descubramos las variables!
 
-### [https://editor.p5js.org/yadlra/sketches/jAXljfqRW](https://editor.p5js.org/yadlra/sketches/jAXljfqRW)
+### [Storing information](https://editor.p5js.org/yadlra/sketches/jAXljfqRW)
 
 ## Logic
 
 ### Objective:(EN) We enrich the arithmetic calculation seen previously with a calculation of logical expressions (ESP) Enriquecemos el cálculo aritmético visto anteriormente con un cálculo de expresiones lógicas
 
-###  URL: https://editor.p5js.org/yadlra/sketches/jwXGP2uVi
+### [Logical expressions](https://editor.p5js.org/yadlra/sketches/jwXGP2uVi)
 
 # Playing around 👾👾👾
 
 ## (EN) Simple Shapes - (ESP) Formas / Figuras sencillas 🔵 🔶 🔺 🔳
 
-###  URL: (https://editor.p5js.org/yadlra/sketches/TxZE9D6Kx)
-
+### [Shapes](https://editor.p5js.org/yadlra/sketches/TxZE9D6Kx)
+ 
 
 ## (EN) Colors and shapes - (ESP) Colores y formas 🌈 ✴️
 
-###  URL: (https://editor.p5js.org/yadlra/sketches/bTgVBgh4O)
+### [Colors](https://editor.p5js.org/yadlra/sketches/bTgVBgh4O)  
+
 
 ## (EN) Animation - (ESP) Animación 🎮 🎴 🎲 🎯
 
-###  URL: (https://editor.p5js.org/yadlra/sketches/eivRCOIIF)
+### [Animations](https://editor.p5js.org/yadlra/sketches/eivRCOIIF)   
+
 
 ## (EN) Moving with mouse - (ESP) Moviendose con el raton ◀️ ⬇️ ▶️ ⬅️ 
 
-###  URL: (https://editor.p5js.org/yadlra/sketches/cGaenLC8C)
+### [Moves] (https://editor.p5js.org/yadlra/sketches/cGaenLC8)     
+
 
 
 
