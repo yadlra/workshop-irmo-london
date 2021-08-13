@@ -17,10 +17,10 @@ Discover the structure of a p5js code, the general syntax of the language, the c
 
 
 
-## (English) Arithmetic calculations - (Español) Cálculos aritméticos
+## (English) Arithmetic calculations - (Español) Cálculos aritméticos - quite unnecessary
 
 ### Objective: 
-(EN) Learning about calculations (we can totally skip this one because it not needed to create something non-functional) We want to have fun!
+(EN) Learning about calculations (we can totally skip this one because it not needed) 
 ESP) ¡Una computadora nunca es solo una calculadora grande! Pero hay que conocer un poquito algunos cálculos básicos, la base de cualquier programa.
 
 ### [Arithmetic calculations](https://editor.p5js.org/yadlra/sketches/etPTDNDww)
