@@ -2,13 +2,13 @@
 
 The exercises below are to be followed as the workshop progresses. The pieces of codes provided contain “TODO” annotations where you can complete the exercises yourself.
 
-If you have trouble understanding any of the exercises, don't hesitate to ask me, what am I here for! 😁 👐
+If you have trouble understanding any of the exercises, don't hesitate to ask me, is what am I here for! 😁 👐
 
 Some very important links to explore more:
 
 [p5.js!](https://p5js.org/)
 
-## (English) Basics of a program - (Español) Basicos de un programa 
+## (English) Basics of a program - (Español) Basicos(?) de un programa 
 
 ### Objective: 
 Discover the structure of a p5js code, the general syntax of the language, the comments
@@ -20,7 +20,7 @@ Discover the structure of a p5js code, the general syntax of the language, the c
 ## (English) Arithmetic calculations - (Español) Cálculos aritméticos
 
 ### Objective: 
-(EN) A computer is never just a very big calculator! Learn about calculations, the basis of any program. 
+(EN) Learning about calculations (we can totally skip this one because it not needed to create something non-functional) We want to have fun!
 ESP) ¡Una computadora nunca es solo una calculadora grande! Pero hay que conocer un poquito algunos cálculos básicos, la base de cualquier programa.
 
 ### [Arithmetic calculations](https://editor.p5js.org/yadlra/sketches/etPTDNDww)
@@ -36,12 +36,15 @@ ESP) ¡Una computadora nunca es solo una calculadora grande! Pero hay que conoce
 ## Logic
 
 ### Objective:
-(EN) We enrich the arithmetic calculation seen previously with a calculation of logical expressions 
+(EN) We can enrich the arithmetic calculation seen previously with a calculation of logical expressions (this is sounding too logical and again it's not necessary)
 (ESP) Enriquecemos el cálculo aritmético visto anteriormente con un cálculo de expresiones lógicas
 
 ### [Logical expressions](https://editor.p5js.org/yadlra/sketches/jwXGP2uVi)
 
-# Playing around 👾👾👾
+*
+*
+
+# Playing around 👾👾👾 the most important part!!!
 
 ## (English) Simple Shapes - (Español) Formas / Figuras sencillas 🔵 🔶 🔺 🔳
 
