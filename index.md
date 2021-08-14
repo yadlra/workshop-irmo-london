@@ -20,45 +20,38 @@ La codificación creativa no es solo para artistas, al igual que la programació
 
 
 
-## (English) Basics of a program - (Español) Basicos(?) de un programa 
+## [Discover the structure of a p5js code](https://editor.p5js.org/yadlra/sketches/JA5Eycait) (Español) Basicos(?) de un programa 
 
 ### Objective: 
 Discover the structure of a p5js code, the general syntax of the language, the comments
 
-### [Discover the structure of a p5js code](https://editor.p5js.org/yadlra/sketches/JA5Eycait)
 
-
-
-## (English) Arithmetic calculations - (Español) Cálculos aritméticos - quite unnecessary
+## [Arithmetic calculations](https://editor.p5js.org/yadlra/sketches/etPTDNDww) (Español) Cálculos aritméticos - quite unnecessary
 
 ### Objective: 
 (EN) Learning about calculations (we can totally skip this one because it not needed) 
 ESP) ¡Una computadora nunca es solo una calculadora grande! Pero hay que conocer un poquito algunos cálculos básicos, la base de cualquier programa.
 
-### [Arithmetic calculations](https://editor.p5js.org/yadlra/sketches/etPTDNDww)
 
-## Variables
+## [Storing information](https://editor.p5js.org/yadlra/sketches/jAXljfqRW) - Variables (almacenando información)
 
 ### Objective: 
 (EN) We often need to store information, and sometimes modify it. Let's find out about the variables! 
 (ESP) A menudo necesitamos almacenar información y, a veces, modificarla. ¡Descubramos las variables!
 
-### [Storing information](https://editor.p5js.org/yadlra/sketches/jAXljfqRW)
 
-## Logic
+## [Logical expressions](https://editor.p5js.org/yadlra/sketches/jwXGP2uVi) - Expresiones de lógica
 
 ### Objective:
 (EN) We can enrich the arithmetic calculation seen previously with a calculation of logical expressions (this is sounding too logical and again it's not necessary)
 (ESP) Enriquecemos el cálculo aritmético visto anteriormente con un cálculo de expresiones lógicas
-
-### [Logical expressions](https://editor.p5js.org/yadlra/sketches/jwXGP2uVi)
 
 *
 *
 
 # Playing around 👾👾👾 the most important part!!!
 
-## (English) Simple Shapes - (Español) Formas / Figuras sencillas 🔵 🔶 🔺 🔳
+## (English) Simple Shapes - (Español) Formas / Figuras 🔵 🔶 🔺 🔳
 
 ### [Shapes](https://editor.p5js.org/yadlra/sketches/TxZE9D6Kx)
  
