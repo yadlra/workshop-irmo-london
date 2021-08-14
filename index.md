@@ -20,27 +20,27 @@ La codificación creativa no es solo para artistas, al igual que la programació
 
 
 
-## [Discover the structure of a p5js code](https://editor.p5js.org/yadlra/sketches/JA5Eycait) (Español) Basicos(?) de un programa 
+## [Discover the structure of a p5js code](https://editor.p5js.org/yadlra/sketches/JA5Eycait)/ Básicos de un programa 
 
 ### Objective: 
 Discover the structure of a p5js code, the general syntax of the language, the comments
 
 
-## [Arithmetic calculations](https://editor.p5js.org/yadlra/sketches/etPTDNDww) (Español) Cálculos aritméticos - quite unnecessary
+## [Arithmetic calculations](https://editor.p5js.org/yadlra/sketches/etPTDNDww) / Cálculos aritméticos 
 
 ### Objective: 
 (EN) Learning about calculations (we can totally skip this one because it not needed) 
 ESP) ¡Una computadora nunca es solo una calculadora grande! Pero hay que conocer un poquito algunos cálculos básicos, la base de cualquier programa.
 
 
-## [Storing information](https://editor.p5js.org/yadlra/sketches/jAXljfqRW) - Variables (almacenando información)
+## [Storing information](https://editor.p5js.org/yadlra/sketches/jAXljfqRW) / Variables (almacenando información)
 
 ### Objective: 
 (EN) We often need to store information, and sometimes modify it. Let's find out about the variables! 
 (ESP) A menudo necesitamos almacenar información y, a veces, modificarla. ¡Descubramos las variables!
 
 
-## [Logical expressions](https://editor.p5js.org/yadlra/sketches/jwXGP2uVi) - Expresiones de lógica
+## [Logical expressions](https://editor.p5js.org/yadlra/sketches/jwXGP2uVi) / Expresiones lógicas
 
 ### Objective:
 (EN) We can enrich the arithmetic calculation seen previously with a calculation of logical expressions (this is sounding too logical and again it's not necessary)
