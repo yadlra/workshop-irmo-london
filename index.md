@@ -46,8 +46,7 @@ ESP) ¡Una computadora nunca es solo una calculadora grande! Pero hay que conoce
 (EN) We can enrich the arithmetic calculation seen previously with a calculation of logical expressions (this is sounding too logical and again it's not necessary)
 (ESP) Enriquecemos el cálculo aritmético visto anteriormente con un cálculo de expresiones lógicas
 
-*
-*
+
 
 # Playing around 👾👾👾 the most important part!!!
 
@@ -66,7 +65,7 @@ ESP) ¡Una computadora nunca es solo una calculadora grande! Pero hay que conoce
 ### [Animations](https://editor.p5js.org/yadlra/sketches/eivRCOIIF)   
 
 
-##  Moving with mouse -  Moviendose con el raton ◀️ ⬇️ ▶️ ⬅️ 
+##  Moving with mouse -  Movimientos con el ratón ◀️ ⬇️ ▶️ ⬅️ 
 
 ### [Moves](https://editor.p5js.org/yadlra/sketches/cGaenLC8)     
 
