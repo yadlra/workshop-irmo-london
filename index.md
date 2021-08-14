@@ -1,4 +1,4 @@
-# Introduction to programming
+# Introduction to programming & creative coding
 
 (EN) What if coding could be used to express ourselves? How would that make us rethink what coding is?
 
