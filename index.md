@@ -6,7 +6,7 @@ Coding, or programming, is giving a set of instructions to a computer to execute
 
 The goal of creative coding is different—it’s to create something expressive! It’s like drawing, but with code! The kinds of creative work you can create with code are limitless. You can make generative visualizations using shapes and text, data visualizations, immersive experiences, and interactive films.
 
-Creative coding is not just for artists, just like how coding isn’t exclusively for engineers! It’s just a way of expressing an interest, a passion, or a message. There are a number of libraries and frameworks in various programming languages available to help you create visualizations with code. For this course, we’ll be using the popular, introductory JavaScript library p5.js.
+Creative coding is not just for artists, just like how coding isn’t exclusively for engineers! It’s just a way of expressing an interest, a passion, or a message. There are a number of libraries and frameworks in various programming languages available to help you create visualizations with code. For this course, we’ll be using the popular, introductory JavaScript library [p5.js!](https://p5js.org/).
 
 
 (Esp LatAm)
@@ -16,9 +16,9 @@ Codificar, o programar, es dar un conjunto de instrucciones a una computadora pa
 
 El objetivo de la programación creativa es diferente: ¡crear algo expresivo! Es como dibujar, ¡pero con código! Los tipos de trabajo creativos que se pueden crear con código son ilimitados. Puedes realizar visualizaciones generativas utilizando formas y texto, visualizaciones de datos, experiencias inmersivas y películas interactivas.
 
-La codificación creativa no es solo para artistas, al igual que la programación no es exclusiva para ingenieros. Es solo una forma de expresar un interés, una pasión o un mensaje. Hay una serie de bibliotecas y marcos en varios lenguajes de programación disponibles para ayudarlo a crear visualizaciones con código. Para este curso, utilizaremos la popular biblioteca introductoria de JavaScript p5.js.
+La codificación creativa no es solo para artistas, al igual que la programación no es exclusiva para ingenieros. Es solo una forma de expresar un interés, una pasión o un mensaje. Hay una serie de bibliotecas y marcos en varios lenguajes de programación disponibles para ayudarlo a crear visualizaciones con código. Para este curso, utilizaremos la popular biblioteca introductoria de JavaScript [p5.js!](https://p5js.org/).
 
-[p5.js!](https://p5js.org/)
+
 
 ## (English) Basics of a program - (Español) Basicos(?) de un programa 
 
