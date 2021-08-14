@@ -51,22 +51,22 @@ ESP) ¡Una computadora nunca es solo una calculadora grande! Pero hay que conoce
 
 # Playing around 👾👾👾 the most important part!!!
 
-## (English) Simple Shapes - (Español) Formas / Figuras 🔵 🔶 🔺 🔳
+## Simple Shapes -  Formas / Figuras 🔵 🔶 🔺 🔳
 
 ### [Shapes](https://editor.p5js.org/yadlra/sketches/TxZE9D6Kx)
  
 
-## (English) Colors and shapes - (Español) Colores y formas 🌈 ✴️
+##  Colors and shapes -  Colores y formas 🌈 ✴️
 
 ### [Colors](https://editor.p5js.org/yadlra/sketches/bTgVBgh4O)  
 
 
-## (English) Animation - (Español) Animación 🎮 🎴 🎲 🎯
+##  Animation -  Animación 🎮 🎴 🎲 🎯
 
 ### [Animations](https://editor.p5js.org/yadlra/sketches/eivRCOIIF)   
 
 
-## (English) Moving with mouse - (Español) Moviendose con el raton ◀️ ⬇️ ▶️ ⬅️ 
+##  Moving with mouse -  Moviendose con el raton ◀️ ⬇️ ▶️ ⬅️ 
 
 ### [Moves](https://editor.p5js.org/yadlra/sketches/cGaenLC8)     
 
