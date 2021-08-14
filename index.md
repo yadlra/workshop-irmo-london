@@ -1,17 +1,16 @@
 # Introduction to programming & creative coding / Introducción a la programación & programación creativa
 
-<p align="center">
-//(EN) What if coding could be used to express ourselves? How would that make us rethink what coding is?
 
-//Coding, or programming, is giving a set of instructions to a computer to execute. The set of instructions usually lead to accomplishing a //task, such as ordering food on a mobile app, searching for information on a web database, and posting photos on a social media platform. In //this sense, the goal of coding is to achieve something practical.
+## (EN) What if coding could be used to express ourselves? How would that make us rethink what coding is?
 
-//The goal of creative coding is different—it’s to create something expressive! It’s like drawing, but with code! The kinds of creative work you //can create with code are limitless. You can make generative visualizations using shapes and text, data visualizations, immersive experiences, //and interactive films.
+Coding, or programming, is giving a set of instructions to a computer to execute. The set of instructions usually lead to accomplishing a task, such as ordering food on a mobile app, searching for information on a web database, and posting photos on a social media platform. In this sense, the goal of coding is to achieve something practical.
+
+The goal of creative coding is different—it’s to create something expressive! It’s like drawing, but with code! The kinds of creative work you can create with code are limitless. You can make generative visualizations using shapes and text, data visualizations, immersive experiences, and interactive films.
 
 Creative coding is not just for artists, just like how coding isn’t exclusively for engineers! It’s just a way of expressing an interest, a passion, or a message. There are a number of libraries and frameworks in various programming languages available to help you create visualizations with code. For this course, we’ll be using the popular, introductory JavaScript library [p5.js!](https://p5js.org/)
 
 
-(Esp LatAm)
-¿Y si la programación pudiera usarse para expresarnos? ¿Cómo nos haría replantearnos qué es la programación?
+## (Esp LatAm) ¿Y si la programación pudiera usarse para expresarnos? ¿Cómo nos haría replantearnos qué es la programación?
 
 Codificar, o programar, es dar un conjunto de instrucciones a una computadora para que las ejecute. El conjunto de instrucciones generalmente conduce a la realización de una tarea, como pedir comida en una aplicación móvil, buscar información en una base de datos web y publicar fotos en una plataforma de redes sociales. En este sentido, el objetivo de la codificación es lograr algo práctico.
 
