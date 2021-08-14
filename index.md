@@ -1,5 +1,6 @@
 # Introduction to programming & creative coding / Introducción a la programación & programación creativa
 
+<p align="center">
 (EN) What if coding could be used to express ourselves? How would that make us rethink what coding is?
 
 Coding, or programming, is giving a set of instructions to a computer to execute. The set of instructions usually lead to accomplishing a task, such as ordering food on a mobile app, searching for information on a web database, and posting photos on a social media platform. In this sense, the goal of coding is to achieve something practical.
@@ -18,7 +19,7 @@ El objetivo de la programación creativa es diferente: ¡crear algo expresivo! E
 
 La codificación creativa no es solo para artistas, al igual que la programación no es exclusiva para ingenieros. Es solo una forma de expresar un interés, una pasión o un mensaje. Hay una serie de bibliotecas y marcos en varios lenguajes de programación disponibles para ayudarlo a crear visualizaciones con código. Para este curso, utilizaremos la popular biblioteca introductoria de JavaScript [p5.js!](https://p5js.org/)
 
-
+</p>
 
 ## [Discover the structure of a p5js code](https://editor.p5js.org/yadlra/sketches/JA5Eycait)/ Básicos de un programa 
 
